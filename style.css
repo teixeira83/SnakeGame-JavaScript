@@ -1,0 +1,14 @@
+body{
+    display: flex;
+}
+
+.pontos{
+    margin-left: 50px;
+}
+
+.refresh-button{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+}
